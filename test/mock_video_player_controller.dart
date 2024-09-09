@@ -61,6 +61,7 @@ class MockVideoPlayerController extends VideoPlayerController {
     bool useCache = false,
     int? maxCacheSize,
     int? maxCacheFileSize,
+    String? adTag,
     String? cacheKey,
     bool? showNotification,
     String? title,
